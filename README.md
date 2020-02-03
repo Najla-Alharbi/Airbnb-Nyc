@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Abstract overToday, Airbnb became one of the popular services to expand on traveling possibilities 
+Today, Airbnb became one of the popular services to expand on traveling possibilities 
 and present a more unique, personalized way of experiencing the world without worrying about the hectic process of 
 searching the different hotel websites.
 
