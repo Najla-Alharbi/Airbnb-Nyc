@@ -28,5 +28,5 @@ import seaborn as sns
 Download the jupyter notebook and the dataset from the source, run: ```jupyter notebook```.
 
 
-## license
+## License
 Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license.
