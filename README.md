@@ -25,6 +25,8 @@ import seaborn as sns
 ```
 ## Deploying:
 
-Download the jupyter notebook and the dataset from the source, store all in the same folder and on your terminal, run: ```jupyter notebook```.
+Download the jupyter notebook and the dataset from the source, run: ```jupyter notebook```.
 
 
+## license
+Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license.
