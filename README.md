@@ -23,10 +23,16 @@ from sklearn.metrics import r2_score
 import seaborn as sns
 %matplotlib inline
 ```
+
+## Summary of the results of the analysis:
+For the summary please view my [medium post](https://medium.com/@NajlaAlharbi/exploring-new-york-city-airbnb-dataset-5e4857709581)
+
 ## Deploying:
 
 Download the jupyter notebook and the dataset from the source, run: ```jupyter notebook```.
 
+## Acknowledgements:
+I have used some similar answers from [Stackoverflow](http://stackoverflow.com/) and [Kaggle](https://www.kaggle.com/) for reference. 
 
 ## License
 Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license.
